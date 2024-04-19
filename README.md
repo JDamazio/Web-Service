@@ -1,5 +1,6 @@
 # Web-Service
-This repository is dedicated to practicing various software engineering concepts, including Clean Architecture, SOLID principles, Identity, CQRS (Command Query Responsibility Segregation), and abstract classes. The project is in its early stages and will evolve over time as new concepts are incorporated and the codebase matures.
+This repository is dedicated to practicing various software engineering concepts, including Clean Architecture, SOLID principles, Identity, CQRS (Command Query Responsibility Segregation), and abstract classes. The project is in its early stages and will evolve over time as new concepts are incorporated and the codebase matures. With care,
+JDamazio
 
 # Projeto de Prática de Conceitos
 Este projeto é dedicado à aplicação prática de diversos conceitos, com foco em aprimorar habilidades em áreas como:
