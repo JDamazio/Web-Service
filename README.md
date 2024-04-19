@@ -15,7 +15,9 @@ O objetivo principal deste projeto é servir como um laboratório para experimen
 
 # Tecnologias Utilizadas
 **Backend:** Desenvolvido em .NET 8
+
 **Frontend:** Será desenvolvido em Vue 3 *(futuro)*
+
 **DataBase:** SQLServer
 
 # Status
