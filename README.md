@@ -24,9 +24,9 @@ O projeto está em uma fase inicial de desenvolvimento. À medida que o tempo pa
 # Futuro do Projeto
 Este projeto está destinado a crescer e se desenvolver ao longo do tempo. Algumas áreas planejadas para expansão incluem:
 
--- Implementação de rotinas automatizadas
--- Integrações com tecnologias externas
--- Refatorações para aprimorar a arquitetura e o design do código
+- Implementação de rotinas automatizadas
+- Integrações com tecnologias externas
+- Refatorações para aprimorar a arquitetura e o design do código
 
 # Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas, enviar solicitações de pull ou fornecer feedback.
