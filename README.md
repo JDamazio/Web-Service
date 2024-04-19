@@ -6,10 +6,12 @@ JDamazio
 Este projeto é dedicado à aplicação prática de diversos conceitos, com foco em aprimorar habilidades em áreas como:
 
 - Clean Architecture
+- Clean Code
 - SOLID Principles
 - Identity
 - CQRS (Command Query Responsibility Segregation)
 - Classes Abstratas
+- AutoMapper
 - RESTful
   
 O objetivo principal deste projeto é servir como um laboratório para experimentação e teste de conhecimentos adquiridos. Enquanto o projeto evolui, novos conceitos e técnicas serão adicionados, refletindo o aprendizado contínuo.
