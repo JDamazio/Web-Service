@@ -5,17 +5,17 @@ JDamazio
 # Projeto de Prática de Conceitos
 Este projeto é dedicado à aplicação prática de diversos conceitos, com foco em aprimorar habilidades em áreas como:
 
--- Clean Architecture
--- SOLID Principles
--- Identity
--- CQRS (Command Query Responsibility Segregation)
--- Classes Abstratas
--- RESTful
+- Clean Architecture
+- SOLID Principles
+- Identity
+- CQRS (Command Query Responsibility Segregation)
+- Classes Abstratas
+- RESTful
 O objetivo principal deste projeto é servir como um laboratório para experimentação e teste de conhecimentos adquiridos. Enquanto o projeto evolui, novos conceitos e técnicas serão adicionados, refletindo o aprendizado contínuo.
 
 # Tecnologias Utilizadas
 **Backend:** Desenvolvido em .NET 8
-**Frontend:** Será desenvolvido em Vue 3 **(futuro)**
+**Frontend:** Será desenvolvido em Vue 3 *(futuro)*
 **DataBase:** SQLServer
 
 # Status
