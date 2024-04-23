@@ -1,0 +1,15 @@
+E:\Pet\Pet.Application\bin\Debug\net8.0\Pet.Application.deps.json
+E:\Pet\Pet.Application\bin\Debug\net8.0\Pet.Application.dll
+E:\Pet\Pet.Application\bin\Debug\net8.0\Pet.Application.pdb
+E:\Pet\Pet.Application\bin\Debug\net8.0\Pet.Domain.dll
+E:\Pet\Pet.Application\bin\Debug\net8.0\Pet.Domain.pdb
+E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.csproj.AssemblyReference.cache
+E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.AssemblyInfoInputs.cache
+E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.AssemblyInfo.cs
+E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.csproj.CoreCompileInputs.cache
+E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Appl.52F03296.Up2Date
+E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.dll
+E:\Pet\Pet.Application\obj\Debug\net8.0\refint\Pet.Application.dll
+E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.pdb
+E:\Pet\Pet.Application\obj\Debug\net8.0\ref\Pet.Application.dll

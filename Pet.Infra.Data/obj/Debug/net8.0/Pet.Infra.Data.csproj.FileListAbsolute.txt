@@ -1,0 +1,17 @@
+E:\Pet\Pet.Infra.Data\bin\Debug\net8.0\Pet.Infra.Data.deps.json
+E:\Pet\Pet.Infra.Data\bin\Debug\net8.0\Pet.Infra.Data.runtimeconfig.json
+E:\Pet\Pet.Infra.Data\bin\Debug\net8.0\Pet.Infra.Data.dll
+E:\Pet\Pet.Infra.Data\bin\Debug\net8.0\Pet.Infra.Data.pdb
+E:\Pet\Pet.Infra.Data\bin\Debug\net8.0\Pet.Domain.dll
+E:\Pet\Pet.Infra.Data\bin\Debug\net8.0\Pet.Domain.pdb
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.csproj.AssemblyReference.cache
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.AssemblyInfoInputs.cache
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.AssemblyInfo.cs
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.csproj.CoreCompileInputs.cache
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infr.8C3AEA7E.Up2Date
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.dll
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\refint\Pet.Infra.Data.dll
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.pdb
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.genruntimeconfig.cache
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\ref\Pet.Infra.Data.dll

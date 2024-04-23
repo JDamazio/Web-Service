@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCz3hx2zVKwVHZf9RFgUKSGDHn9cWjSogTCfBFlt2U7IHNUM9bIr72wB4jc1XQGquz9L6zfOwDKABbxSAtdPSQ==",
+  "success": true,
+  "projectFilePath": "E:\\Pet\\Pet.Application\\Pet.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jramo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\jramo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jramo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\jramo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\jramo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
