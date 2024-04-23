@@ -19,3 +19,4 @@ E:\Pet\Pet.Infra.IoC\obj\Debug\net8.0\refint\Pet.Infra.IoC.dll
 E:\Pet\Pet.Infra.IoC\obj\Debug\net8.0\Pet.Infra.IoC.pdb
 E:\Pet\Pet.Infra.IoC\obj\Debug\net8.0\Pet.Infra.IoC.genruntimeconfig.cache
 E:\Pet\Pet.Infra.IoC\obj\Debug\net8.0\ref\Pet.Infra.IoC.dll
+E:\Pet\Pet.Infra.IoC\obj\Debug\net8.0\Pet.Infra.IoC.sourcelink.json

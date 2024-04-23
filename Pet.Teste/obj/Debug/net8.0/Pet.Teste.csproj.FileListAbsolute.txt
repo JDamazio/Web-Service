@@ -97,3 +97,4 @@ E:\Pet\Pet.Teste\obj\Debug\net8.0\refint\Pet.Teste.dll
 E:\Pet\Pet.Teste\obj\Debug\net8.0\Pet.Teste.pdb
 E:\Pet\Pet.Teste\obj\Debug\net8.0\Pet.Teste.genruntimeconfig.cache
 E:\Pet\Pet.Teste\obj\Debug\net8.0\ref\Pet.Teste.dll
+E:\Pet\Pet.Teste\obj\Debug\net8.0\Pet.Teste.sourcelink.json

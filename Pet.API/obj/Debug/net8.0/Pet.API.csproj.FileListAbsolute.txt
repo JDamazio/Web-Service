@@ -142,3 +142,7 @@ E:\Pet\Pet.API\obj\Debug\net8.0\refint\Pet.API.dll
 E:\Pet\Pet.API\obj\Debug\net8.0\Pet.API.pdb
 E:\Pet\Pet.API\obj\Debug\net8.0\Pet.API.genruntimeconfig.cache
 E:\Pet\Pet.API\obj\Debug\net8.0\ref\Pet.API.dll
+E:\Pet\Pet.API\bin\Debug\net8.0\AutoMapper.dll
+E:\Pet\Pet.API\bin\Debug\net8.0\MediatR.dll
+E:\Pet\Pet.API\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\Pet\Pet.API\obj\Debug\net8.0\Pet.API.sourcelink.json

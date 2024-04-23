@@ -11,7 +11,6 @@ namespace Pet.Domain.Interfaces
 	{
 		Task<IEnumerable<Pets>> GetPetsAsync();
 		Task<Pets> GetByIdAsync(int? id);
-		Task<Pets> GetPetClienteAsync(int? id);
 		Task<Pets> CreateAsync(Pets pets);
 		Task<Pets> UpdateAsync(Pets pets);
 		Task<Pets> RemoveAsync(Pets pets);

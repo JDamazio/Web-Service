@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7hx9a3M/m1kC2dLZcvfo3hPMciqyS4XW1yRgUaY6w9i6ZuF51cbuyMWi2mX0inHfMWHqso54BxZNyqlMhFTflg==",
+  "dgSpecHash": "PIRRzjg9Tg/j37TwuB4wxbPQ2oVg1Bg2/k37BgmS3uFWsN8HwsLObz5I5K7ruYgIXkVw0GdcGd6aob7FMkMkGw==",
   "success": true,
   "projectFilePath": "E:\\Pet\\Pet.Infra.IoC\\Pet.Infra.IoC.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\jramo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\jramo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\jramo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\jramo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\jramo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\jramo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\jramo\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\jramo\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

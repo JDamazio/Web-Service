@@ -1,6 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Pet.Application.Interfaces;
+using Pet.Application.Mappings;
+using Pet.Application.Services;
 using Pet.Domain.Interfaces;
 using Pet.Infra.Data.Context;
 using Pet.Infra.Data.Repositories;
@@ -24,6 +27,14 @@ namespace Pet.Infra.IoC
 
 			services.AddScoped<IClienteRepository, ClienteRepository>();
 			services.AddScoped<IPetRepository, PetRepository>();
+
+			services.AddScoped<IClienteService, ClienteService>();
+			services.AddScoped<IPetService, PetService>();
+
+			services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
+
+			var myhandlers = AppDomain.CurrentDomain.Load("Pet.Application");
+			services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(myhandlers));
 
 			return services;
 		}

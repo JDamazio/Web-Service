@@ -13,7 +13,6 @@ namespace Pet.Application.Interfaces
 		Task<IEnumerable<PetDTO>> GetPets();
 		Task<PetDTO> GetById(int? id);
 
-		Task<PetDTO> GetPetCliente(int? id);
 		Task Add(PetDTO petDTO);
 		Task Update(PetDTO petDTO);
 		Task Remove(int? id);

@@ -1,6 +1,9 @@
 ﻿using AutoMapper;
+using MediatR;
 using Pet.Application.DTOs;
 using Pet.Application.Interfaces;
+using Pet.Application.PetCQRS.Commands;
+using Pet.Application.PetCQRS.Queries;
 using Pet.Domain.Entities;
 using Pet.Domain.Interfaces;
 using System;
@@ -13,49 +16,54 @@ namespace Pet.Application.Services
 {
 	public class PetService : IPetService
 	{
-		private IPetRepository _repository;
+		private readonly IMediator _mediator;
 		private readonly IMapper _mapper;
 
-		public PetService(IPetRepository repository, IMapper mapper)
+		public PetService(IMediator mediator, IMapper mapper)
 		{
-			_repository = repository ?? throw new ArgumentException(nameof(repository));
+			_mediator = mediator;
 			_mapper = mapper;
 		}
 
 		public async Task<IEnumerable<PetDTO>> GetPets()
 		{
-			var petsEntity = await _repository.GetPetsAsync();
-			return _mapper.Map<IEnumerable<PetDTO>>(petsEntity);
+			var petsQuery = new GetPetsQuery();
+			if (petsQuery == null)
+				throw new Exception("Pets não encontrados");
+
+			var result = await _mediator.Send(petsQuery);
+			return _mapper.Map<IEnumerable<PetDTO>>(result);
 		}
 
 		public async Task<PetDTO> GetById(int? id)
 		{
-			var petEntity = await _repository.GetByIdAsync(id);
-			return _mapper.Map<PetDTO>(petEntity);
-		}
+			var petByIdQuery = new GetPetByIdQuery(id.Value);
+			if (petByIdQuery == null)
+				throw new Exception("Pet não encontrado.");
 
-		public async Task<PetDTO> GetPetCliente(int? id)
-		{
-			var petEntity = await _repository.GetPetClienteAsync(id);
-			return _mapper.Map<PetDTO>(petEntity);
+			var result = await _mediator.Send(petByIdQuery);
+			return _mapper.Map<PetDTO>(result);
 		}
 
 		public async Task Add(PetDTO petDTO)
 		{
-			var petEntity = _mapper.Map<Pets>(petDTO);
-			await _repository.CreateAsync(petEntity);
+			var petCreateCommand = _mapper.Map<PetCreateCommand>(petDTO);
+			await _mediator.Send(petCreateCommand);
 		}
 
 		public async Task Update(PetDTO petDTO)
 		{
-			var petEntity = _mapper.Map<Pets>(petDTO);
-			await _repository.UpdateAsync(petEntity);
+			var petUpdateCommand = _mapper.Map<PetUpdateCommand>(petDTO);
+			await _mediator.Send(petUpdateCommand);
 		}
 
 		public async Task Remove(int? id)
 		{
-			var petEntity = _repository.GetByIdAsync(id).Result;
-			await _repository.RemoveAsync(petEntity);
+			var petRemoveCommand = new PetRemoveCommand(id.Value);
+			if (petRemoveCommand == null) 
+				throw new Exception();
+
+			await _mediator.Send(petRemoveCommand);
 		}
 	}
 }

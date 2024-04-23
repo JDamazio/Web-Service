@@ -13,3 +13,4 @@ E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.dll
 E:\Pet\Pet.Application\obj\Debug\net8.0\refint\Pet.Application.dll
 E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.pdb
 E:\Pet\Pet.Application\obj\Debug\net8.0\ref\Pet.Application.dll
+E:\Pet\Pet.Application\obj\Debug\net8.0\Pet.Application.sourcelink.json

@@ -15,3 +15,4 @@ E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\refint\Pet.Infra.Data.dll
 E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.pdb
 E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.genruntimeconfig.cache
 E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\ref\Pet.Infra.Data.dll
+E:\Pet\Pet.Infra.Data\obj\Debug\net8.0\Pet.Infra.Data.sourcelink.json

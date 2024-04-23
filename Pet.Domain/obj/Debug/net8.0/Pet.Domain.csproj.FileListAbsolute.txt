@@ -9,3 +9,4 @@ E:\Pet\Pet.Domain\obj\Debug\net8.0\Pet.Domain.dll
 E:\Pet\Pet.Domain\obj\Debug\net8.0\refint\Pet.Domain.dll
 E:\Pet\Pet.Domain\obj\Debug\net8.0\Pet.Domain.pdb
 E:\Pet\Pet.Domain\obj\Debug\net8.0\ref\Pet.Domain.dll
+E:\Pet\Pet.Domain\obj\Debug\net8.0\Pet.Domain.sourcelink.json

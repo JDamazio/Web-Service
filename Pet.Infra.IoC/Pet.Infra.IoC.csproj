@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Pet.Application\Pet.Application.csproj" />
     <ProjectReference Include="..\Pet.Domain\Pet.Domain.csproj" />
     <ProjectReference Include="..\Pet.Infra.Data\Pet.Infra.Data.csproj" />
