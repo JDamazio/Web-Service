@@ -60,10 +60,51 @@ namespace Pet.Application.Services
 		public async Task Remove(int? id)
 		{
 			var petRemoveCommand = new PetRemoveCommand(id.Value);
-			if (petRemoveCommand == null) 
+			if (petRemoveCommand == null)
 				throw new Exception();
 
 			await _mediator.Send(petRemoveCommand);
 		}
 	}
+	//public class PetService : IPetService
+	//{
+	//	private readonly IPetRepository _repository;
+	//	private readonly IMapper _mapper;
+
+	//	public PetService(IPetRepository repository, IMapper mapper)
+	//	{
+	//		_repository = repository;
+	//		_mapper = mapper;
+	//	}
+
+	//	public async Task<IEnumerable<PetDTO>> GetPets()
+	//	{
+	//		var pets = await _repository.GetPetsAsync();
+	//		return _mapper.Map<IEnumerable<PetDTO>>(pets);
+	//	}
+
+	//	public async Task<PetDTO> GetById(int? id)
+	//	{
+	//		var pet = await _repository.GetByIdAsync(id);
+	//		return _mapper.Map<PetDTO>(pet);
+	//	}
+
+	//	public async Task Add(PetDTO petDTO)
+	//	{
+	//		var pet = _mapper.Map<Pets>(petDTO);
+	//		await _repository.CreateAsync(pet);
+	//	}
+
+	//	public async Task Update(PetDTO petDTO)
+	//	{
+	//		var pet = _mapper.Map<Pets>(petDTO);
+	//		await _repository.UpdateAsync(pet);
+	//	}
+
+	//	public async Task Remove(int? id)
+	//	{
+	//		var pet = _repository.GetByIdAsync(id).Result;
+	//		await _repository.RemoveAsync(pet);
+	//	}
+	//}
 }

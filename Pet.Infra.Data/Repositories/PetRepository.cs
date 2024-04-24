@@ -22,7 +22,7 @@ namespace Pet.Infra.Data.Repositories
 
 		public async Task<Pets> GetByIdAsync(int? id)
 		{
-			return await _context.Pets.Include(c => c.ClienteId).SingleOrDefaultAsync(p => p.Id == id);
+			return await _context.Pets.Include(c => c.Cliente).SingleOrDefaultAsync(p => p.Id == id);
 		}
 
 		public async Task<IEnumerable<Pets>> GetPetsAsync()
