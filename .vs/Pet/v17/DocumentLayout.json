@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\Pet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|e:\\pet\\pet.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|solutionrelative:pet.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|e:\\pet\\pet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|solutionrelative:pet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|e:\\pet\\pet.infra.data\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|solutionrelative:pet.infra.data\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F847D63-3D5D-4EB4-8AF7-086962CD9852}|Pet.Infra.IoC\\Pet.Infra.IoC.csproj|e:\\pet\\pet.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|e:\\pet\\pet.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|solutionrelative:pet.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|e:\\pet\\pet.infra.data\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|solutionrelative:pet.infra.data\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|e:\\pet\\pet.infra.data\\pet.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -35,46 +39,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "E:\\Pet\\Pet.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Pet.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "E:\\Pet\\Pet.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Pet.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwDcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:41:58.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Pet\\Pet.API\\Program.cs",
               "RelativeDocumentMoniker": "Pet.API\\Program.cs",
               "ToolTip": "E:\\Pet\\Pet.API\\Program.cs",
               "RelativeToolTip": "Pet.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T20:41:36.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\Pet\\Pet.Infra.IoC\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Pet.Infra.IoC\\DependencyInjection.cs",
               "ToolTip": "E:\\Pet\\Pet.Infra.IoC\\DependencyInjection.cs",
               "RelativeToolTip": "Pet.Infra.IoC\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA8AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T20:21:59.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SeedUserRoleInitial.cs",
               "DocumentMoniker": "E:\\Pet\\Pet.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
               "RelativeDocumentMoniker": "Pet.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
               "ToolTip": "E:\\Pet\\Pet.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
               "RelativeToolTip": "Pet.Infra.Data\\Identity\\SeedUserRoleInitial.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCkAAAADAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwCkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T20:04:32.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pet.Infra.Data",
+              "DocumentIndex": 5,
+              "Title": "Pet.Infra.Data.csproj",
               "DocumentMoniker": "E:\\Pet\\Pet.Infra.Data\\Pet.Infra.Data.csproj",
               "RelativeDocumentMoniker": "Pet.Infra.Data\\Pet.Infra.Data.csproj",
               "ToolTip": "E:\\Pet\\Pet.Infra.Data\\Pet.Infra.Data.csproj",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AuthenticateService.cs",
               "DocumentMoniker": "E:\\Pet\\Pet.Infra.Data\\Identity\\AuthenticateService.cs",
               "RelativeDocumentMoniker": "Pet.Infra.Data\\Identity\\AuthenticateService.cs",
