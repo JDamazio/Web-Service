@@ -1,3 +1,4 @@
+using Pet.API.Middleware;
 using Pet.Domain.Account;
 using Pet.Infra.IoC;
 
@@ -25,6 +26,7 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 //	app.UseSwagger();
 //	app.UseSwaggerUI();
 //}
+app.UseMiddleware<ExceptionMiddleware>();
 
 using (var scope = app.Services.CreateScope())
 {

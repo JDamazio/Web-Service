@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "E:\\Pet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE8099C3-261A-4605-87FB-597A822D3CE4}|Pet.Application\\Pet.Application.csproj|e:\\pet\\pet.application\\dtos\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE8099C3-261A-4605-87FB-597A822D3CE4}|Pet.Application\\Pet.Application.csproj|solutionrelative:pet.application\\dtos\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|e:\\pet\\pet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|solutionrelative:pet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F847D63-3D5D-4EB4-8AF7-086962CD9852}|Pet.Infra.IoC\\Pet.Infra.IoC.csproj|e:\\pet\\pet.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F847D63-3D5D-4EB4-8AF7-086962CD9852}|Pet.Infra.IoC\\Pet.Infra.IoC.csproj|solutionrelative:pet.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|e:\\pet\\pet.infra.data\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|solutionrelative:pet.infra.data\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|e:\\pet\\pet.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|solutionrelative:pet.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|e:\\pet\\pet.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|solutionrelative:pet.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8099C3-261A-4605-87FB-597A822D3CE4}|Pet.Application\\Pet.Application.csproj|e:\\pet\\pet.application\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE8099C3-261A-4605-87FB-597A822D3CE4}|Pet.Application\\Pet.Application.csproj|solutionrelative:pet.application\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|e:\\pet\\pet.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|solutionrelative:pet.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|e:\\pet\\pet.infra.data\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDE9904B-1DC1-45AA-ABCF-D21BF2A901FF}|Pet.Infra.Data\\Pet.Infra.Data.csproj|solutionrelative:pet.infra.data\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|e:\\pet\\pet.api\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971EF0F9-F219-4230-A27D-84089C1C2C68}|Pet.API\\Pet.API.csproj|solutionrelative:pet.api\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8099C3-261A-4605-87FB-597A822D3CE4}|Pet.Application\\Pet.Application.csproj|e:\\pet\\pet.application\\dtos\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8099C3-261A-4605-87FB-597A822D3CE4}|Pet.Application\\Pet.Application.csproj|solutionrelative:pet.application\\dtos\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8099C3-261A-4605-87FB-597A822D3CE4}|Pet.Application\\Pet.Application.csproj|e:\\pet\\pet.application\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8099C3-261A-4605-87FB-597A822D3CE4}|Pet.Application\\Pet.Application.csproj|solutionrelative:pet.application\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE8099C3-261A-4605-87FB-597A822D3CE4}|Pet.Application\\Pet.Application.csproj|e:\\pet\\pet.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +54,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\Pet\\Pet.Infra.IoC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Pet.Infra.IoC\\DependencyInjection.cs",
+              "ToolTip": "E:\\Pet\\Pet.Infra.IoC\\DependencyInjection.cs",
+              "RelativeToolTip": "Pet.Infra.IoC\\DependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:00:32.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "E:\\Pet\\Pet.API\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "Pet.API\\Controllers\\PetController.cs",
+              "ToolTip": "E:\\Pet\\Pet.API\\Controllers\\PetController.cs",
+              "RelativeToolTip": "Pet.API\\Controllers\\PetController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwCAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:15:39.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "E:\\Pet\\Pet.Infra.Data\\Repositories\\PetRepository.cs",
+              "RelativeDocumentMoniker": "Pet.Infra.Data\\Repositories\\PetRepository.cs",
+              "ToolTip": "E:\\Pet\\Pet.Infra.Data\\Repositories\\PetRepository.cs",
+              "RelativeToolTip": "Pet.Infra.Data\\Repositories\\PetRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:42:17.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\Pet\\Pet.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Pet.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\Pet\\Pet.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Pet.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:51:59.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PetDTO.cs",
               "DocumentMoniker": "E:\\Pet\\Pet.Application\\DTOs\\PetDTO.cs",
               "RelativeDocumentMoniker": "Pet.Application\\DTOs\\PetDTO.cs",
@@ -51,33 +123,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PetController.cs",
-              "DocumentMoniker": "E:\\Pet\\Pet.API\\Controllers\\PetController.cs",
-              "RelativeDocumentMoniker": "Pet.API\\Controllers\\PetController.cs",
-              "ToolTip": "E:\\Pet\\Pet.API\\Controllers\\PetController.cs",
-              "RelativeToolTip": "Pet.API\\Controllers\\PetController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAACAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Pet\\Pet.API\\Program.cs",
+              "RelativeDocumentMoniker": "Pet.API\\Program.cs",
+              "ToolTip": "E:\\Pet\\Pet.API\\Program.cs",
+              "RelativeToolTip": "Pet.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T22:15:39.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PetRepository.cs",
-              "DocumentMoniker": "E:\\Pet\\Pet.Infra.Data\\Repositories\\PetRepository.cs",
-              "RelativeDocumentMoniker": "Pet.Infra.Data\\Repositories\\PetRepository.cs",
-              "ToolTip": "E:\\Pet\\Pet.Infra.Data\\Repositories\\PetRepository.cs",
-              "RelativeToolTip": "Pet.Infra.Data\\Repositories\\PetRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T22:42:17.543Z",
+              "WhenOpened": "2024-04-24T23:46:37.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Pet\\Pet.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Pet.API\\appsettings.json",
+              "ToolTip": "E:\\Pet\\Pet.API\\appsettings.json",
+              "RelativeToolTip": "Pet.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T23:53:42.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "E:\\Pet\\Pet.API\\ApiException.cs",
+              "RelativeDocumentMoniker": "Pet.API\\ApiException.cs",
+              "ToolTip": "E:\\Pet\\Pet.API\\ApiException.cs",
+              "RelativeToolTip": "Pet.API\\ApiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:52:45.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "E:\\Pet\\Pet.Infra.Data\\Repositories\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "Pet.Infra.Data\\Repositories\\ClienteRepository.cs",
@@ -85,12 +170,11 @@
               "RelativeToolTip": "Pet.Infra.Data\\Repositories\\ClienteRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T22:42:12.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T22:42:12.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "E:\\Pet\\Pet.Application\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "Pet.Application\\Services\\ClienteService.cs",
@@ -98,12 +182,11 @@
               "RelativeToolTip": "Pet.Application\\Services\\ClienteService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwC4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T22:12:13.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T22:12:13.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "PetService.cs",
               "DocumentMoniker": "E:\\Pet\\Pet.Application\\Services\\PetService.cs",
               "RelativeDocumentMoniker": "Pet.Application\\Services\\PetService.cs",
@@ -111,8 +194,7 @@
               "RelativeToolTip": "Pet.Application\\Services\\PetService.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T22:11:30.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T22:11:30.094Z"
             }
           ]
         }
